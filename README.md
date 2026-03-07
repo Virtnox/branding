@@ -30,46 +30,40 @@ This theme primarily applies to our websites & assets.
 #### Icons & Logos
 
 <table align="center">
-  <td align="center">
-    <a href="https://github.com/Rackway/branding/blob/main/assets/icon.png">Icon</a><br>
-    <img src="https://github.com/Rackway/branding/blob/main/assets/icon.png" width="150">
-  </td>
-</tr>
   <tr>
+    <td align="center">
+      <a href="https://github.com/Rackway/branding/blob/main/assets/icon.png">Icon</a><br>
+      <img src="https://github.com/Rackway/branding/blob/main/assets/icon.png" width="150">
+    </td>
     <td align="center">
       <a href="https://github.com/Rackway/branding/blob/main/assets/stylized_icon.png">Icon [Stylized]</a><br>
       <img src="https://github.com/Rackway/branding/blob/main/assets/stylized_icon.png" width="150">
     </td>
+    <td align="center">
+      <a href="https://github.com/Rackway/branding/blob/main/assets/dark_icon.png">Icon [Dark background]</a><br>
+      <img src="https://github.com/Rackway/branding/blob/main/assets/dark_icon.png" width="150">
+    </td>
   </tr>
   <tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/Rackway/branding/blob/main/assets/dark_icon.png">Icon [Dark background]</a><br>
-    <img src="https://github.com/Rackway/branding/blob/main/assets/dark_icon.png" width="150">
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/Rackway/branding/blob/main/assets/light_icon.png">Icon [Light background]</a><br>
-    <img src="https://github.com/Rackway/branding/blob/main/assets/light_icon.png" width="150">
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/Rackway/branding/blob/main/assets/wordmark.png">Wordmark</a><br>
-    <img src="https://github.com/Rackway/branding/blob/main/assets/wordmark.png" width="150">
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/Rackway/branding/blob/main/assets/light_wordmark.png">Wordmark [Light background]</a><br>
-    <img src="https://github.com/Rackway/branding/blob/main/assets/light_wordmark.png" width="150">
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/Rackway/branding/blob/main/assets/dark_wordmark.png">Wordmark [Dark background]</a><br>
-    <img src="https://github.com/Rackway/branding/blob/main/assets/dark_wordmark.png" width="150">
-  </td>
-</tr>
+    <td align="center">
+      <a href="https://github.com/Rackway/branding/blob/main/assets/light_icon.png">Icon [Light background]</a><br>
+      <img src="https://github.com/Rackway/branding/blob/main/assets/light_icon.png" width="150">
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rackway/branding/blob/main/assets/wordmark.png">Wordmark</a><br>
+      <img src="https://github.com/Rackway/branding/blob/main/assets/wordmark.png" width="150">
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rackway/branding/blob/main/assets/light_wordmark.png">Wordmark [Light background]</a><br>
+      <img src="https://github.com/Rackway/branding/blob/main/assets/light_wordmark.png" width="150">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rackway/branding/blob/main/assets/dark_wordmark.png">Wordmark [Dark background]</a><br>
+      <img src="https://github.com/Rackway/branding/blob/main/assets/dark_wordmark.png" width="150">
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
