@@ -2,11 +2,11 @@
 
 ## Naming
 
-**Noxia** — the brand name is only "Noxia". Do not use variations, abbreviations, and always capitalize the "N".
+**Rackway** — the brand name is only "Rackway". Do not use variations, abbreviations, and always capitalize the "R".
 
 ## Usage
 
-Always leave adequate space around Noxia assets. Do not alter, combine, or use them in ways that suggest endorsement, affiliation, or as part of your own branding without written permission. All Noxia assets are protected by trademark and copyright.
+Always leave adequate space around Rackway assets. Do not alter, combine, or use them in ways that suggest endorsement, affiliation, or as part of your own branding without written permission. All Rackway assets are protected by trademark and copyright.
 
 ## Theme
 
@@ -16,51 +16,60 @@ This theme primarily applies to our websites & assets.
 
 | Purpose                | HEX       | RGB           |
 | ---------------------- | --------- | ------------- |
-| **Background (Dark)**  | `#141414` | 20, 20, 20    |
+| **Background (Dark)**  | `#0f0f12` | 15, 15, 18    |
 | **Background (Light)** | `#ffffff` | 255, 255, 255 |
 | **Accent**             | `#826cff` | 130, 108, 255 |
 
 #### Attributes
 
-- **Border / Corner Radius:** 8px
-- **Font Family:** [Outfit](https://fonts.google.com/specimen/Outfit)
+- **Border / Corner Radius:** 12px
+- **Font Family:** [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk)
 
 ## Assets
 
 #### Icons & Logos
 
 <table align="center">
+  <td align="center">
+    <a href="https://github.com/Rackway/branding/blob/main/assets/icon.png">Icon</a><br>
+    <img src="https://github.com/Rackway/branding/blob/main/assets/icon.png" width="150">
+  </td>
+</tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/stylized.icon.png">Logo (Stylized)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/stylized.icon.png" width="150">
-    </td>
-    <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/coloured.icon.png">Logo (Coloured)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/coloured.icon.png" width="150">
-    </td>
-    <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/black.icon.png">Logo (Black)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/black.icon.png" width="150">
-    </td>
-    <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/white.icon.png">Logo (White)</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/white.icon.png" width="150">
+      <a href="https://github.com/Rackway/branding/blob/main/assets/stylized_icon.png">Icon [Stylized]</a><br>
+      <img src="https://github.com/Rackway/branding/blob/main/assets/stylized_icon.png" width="150">
     </td>
   </tr>
-</table>
-
-#### Miscellaneous
-
-<table align="center">
   <tr>
-    <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/discord_server_rules_banner.png">Discord Server Rules Banner</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/discord_server_rules_banner.png" width="400">
-    </td>
-    <td align="center">
-      <a href="https://github.com/NoxiaCloud/branding/blob/main/assets/x_profile_banner.png">X Profile Banner</a><br>
-      <img src="https://github.com/NoxiaCloud/branding/blob/main/assets/x_profile_banner.png" width="400">
-    </td>
-  </tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/Rackway/branding/blob/main/assets/dark_icon.png">Icon [Dark background]</a><br>
+    <img src="https://github.com/Rackway/branding/blob/main/assets/dark_icon.png" width="150">
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/Rackway/branding/blob/main/assets/light_icon.png">Icon [Light background]</a><br>
+    <img src="https://github.com/Rackway/branding/blob/main/assets/light_icon.png" width="150">
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/Rackway/branding/blob/main/assets/wordmark.png">Wordmark</a><br>
+    <img src="https://github.com/Rackway/branding/blob/main/assets/wordmark.png" width="150">
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/Rackway/branding/blob/main/assets/light_wordmark.png">Wordmark [Light background]</a><br>
+    <img src="https://github.com/Rackway/branding/blob/main/assets/light_wordmark.png" width="150">
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/Rackway/branding/blob/main/assets/dark_wordmark.png">Wordmark [Dark background]</a><br>
+    <img src="https://github.com/Rackway/branding/blob/main/assets/dark_wordmark.png" width="150">
+  </td>
+</tr>
 </table>
