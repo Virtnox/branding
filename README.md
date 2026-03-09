@@ -63,7 +63,10 @@ This theme primarily applies to our websites & assets.
       <a href="https://github.com/Rackway/branding/blob/main/assets/dark_wordmark.png">Wordmark [Dark background]</a><br>
       <img src="https://github.com/Rackway/branding/blob/main/assets/dark_wordmark.png" width="150">
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/Rackway/branding/blob/main/assets/stylized_wordmark.png">Wordmark [Stylized]</a><br>
+      <img src="https://github.com/Rackway/branding/blob/main/assets/stylized_wordmark.png" width="150">
+    </td>
     <td></td>
   </tr>
 </table>
