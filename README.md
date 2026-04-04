@@ -16,14 +16,14 @@ This theme primarily applies to our websites & assets.
 
 | Purpose                | HEX       | RGB           |
 | ---------------------- | --------- | ------------- |
-| **Background (Dark)**  | `#0f0f12` | 15, 15, 18    |
+| **Background (Dark)**  | `#0f0f12` | 12, 12, 12    |
 | **Background (Light)** | `#ffffff` | 255, 255, 255 |
 | **Accent**             | `#826cff` | 130, 108, 255 |
 
 #### Attributes
 
 - **Border / Corner Radius:** 12px
-- **Font Family:** [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk)
+- **Font Families:** [Inter](https://fonts.google.com/specimen/Inter), [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk)
 
 ## Assets
 
