@@ -29,9 +29,7 @@ This theme primarily applies to our websites & assets.
 
 ## Assets
 
-#### Icons & Logos
-
-**Logomarks**
+#### Logomarks
 <table align="center">
   <tr>
     <td align="center">
@@ -59,7 +57,7 @@ This theme primarily applies to our websites & assets.
   </tr>
 </table>
 
-**Wordmarks**
+#### Wordmarks
 <table align="center">
   <tr>
     <td align="center">
