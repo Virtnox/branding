@@ -2,7 +2,7 @@
 
 ## Naming
 
-**Virtnox** — the brand name is only "Virtnox". Do not use variations, abbreviations, and always capitalize the "R".
+**Virtnox** — the brand name is only "Virtnox". Do not use variations, abbreviations, and always capitalize the "V".
 
 ## Usage
 
@@ -30,6 +30,7 @@ This theme primarily applies to our websites & assets.
 ## Assets
 
 #### Logomarks
+
 <table align="center">
   <tr>
     <td align="center">
@@ -58,6 +59,7 @@ This theme primarily applies to our websites & assets.
 </table>
 
 #### Wordmarks
+
 <table align="center">
   <tr>
     <td align="center">
